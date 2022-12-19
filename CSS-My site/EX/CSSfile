@@ -1,0 +1,9 @@
+body {
+    background-color: cyan;
+}
+p {
+    color: darkorange;
+}
+h3 {
+    color: blanchedalmond;
+}

@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="test.css" />
+    </head>
+    <body>
+        <h3>
+            A white Header
+        </h3>
+        <p>
+            This paragarph has a blue font. The Background color of this page is gray because
+            we changed it with CSS!!
+        </p>
+    </body>
+</html>

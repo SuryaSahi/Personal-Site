@@ -1,0 +1,128 @@
+body {
+  background-color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #737373;
+  margin-top: 0;
+  font-size: 562.5%;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+}
+
+h2 {
+  color: #F0FFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #F0FFFF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  padding: 20px;
+}
+
+p {
+  line-height: 2;
+}
+
+div {
+  background-color: #54BAB9;
+  color: black;
+}
+hr {
+  border: dotted;
+  border-color: #EAF6F6;
+  border-width: 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.btr {
+  margin:auto;
+  width: 40% auto 60%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top {
+  background-color: #99ffcc;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  padding-bottom: 30px
+}
+
+.bottom-container {
+  background-color: #99ffd6;
+  padding: 30px 0px 20px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.Problem-Solving {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Web-Developer {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+
+
+
+
+.email {
+  font-size:15px;
+  font-family:Arial;
+  width:112px;
+  height:496px;
+  border-width:2px;
+  color:#fff;
+  border-color:#18ab29;
+  font-weight:bold;
+  border-top-left-radius:55px;
+  border-top-right-radius:55px;
+  border-bottom-left-radius:55px;
+  border-bottom-right-radius:55px;
+  text-shadow: 1px 1px 0px #2f6627;
+  background:#44c767;
+}
+
+.email:hover {
+  background: #5cbf2a
+}
